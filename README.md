@@ -1,3 +1,3 @@
-# Dimish
-testing git and github \n
-this is my first commit... New commit
+git add .
+git commit -m "Second commit"
+git push
